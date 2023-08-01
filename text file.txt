@@ -1,0 +1,398 @@
+﻿################################################################################
+
+Ubisoft Entertainment
+Watch Dogs® 2 v1.013.207.1
+
+################################################################################
+
+Es wurden diverse kleinere Probleme mit Flackern, Reflexionen und fehlenden Texturen behoben.
+
+Es wurde ein Fehler behoben, durch den der Nebel in San Francisco bei Regen nicht korrekt angezeigt wurde.
+
+Es wurden diverse kleinere Probleme mit Fenstermodi behoben.
+
+Es wurden diverse kleinere Probleme mit der Benutzeroberfläche und dem Text behoben.
+
+Es wurden diverse kleinere Probleme mit den Online-Spielmodi behoben.
+
+Es wurde ein Problem behoben, durch den das Spiel in Steam nach dem Download nicht gestartet werden konnte, wenn die Option „Spiel starten, sobald bereit“ aktiviert war.
+
+Es wurde ein Problem behoben, durch den das Spiel auf Laptops mit integrierter statt dedizierter Grafik gestartet wurde.
+
+################################################################################
+
+Ubisoft Entertainment
+Watch Dogs® 2 v1.11.174.10
+
+################################################################################
+
+[Grafikoptionen] SMAA T2x – Mit diesem Patch wird ein neuer Post-Process-Antialiasing-Modus hinzugefügt – SMAA T2x, eine verbesserte Version des SMAA mit temporaler Komponente. Da SMAA T2x temporale Techniken einsetzt, funktioniert es nicht mit aktivierter temporaler Filterung. 
+
+[Grafikoptionen] Dynamische Partikel – Dieser Patch fügt eine neue Grafikoption hinzu, mit der man dynamische Partikel wie Blätter und Kugeltreffer-Effekte deaktivieren kann.
+
+[Steuerungsoptionen] Automatische Zentrierung der Kamera – Dieser Patch fügt zwei neue Optionen für Maus & Tastatur hinzu, mit denen man die automatische Zentrierung der Kamera beim Fahren oder Sprinten deaktivieren kann.
+
+Einige Tastaturbelegungen wurden geändert: [F9] und [F10] werden jetzt für Verspotten- und Lachen-Emotes verwendet. SongSneak-Aktionen sind jetzt der [Rücktaste] zugewiesen und Tutorial-Aktionen sind [Pos1] zugewiesen. 
+
+Es wurden diverse kleinere Probleme mit Flackern behoben.  
+
+Es wurden diverse kleinere Probleme mit den Multi-Monitor-Modi behoben.
+
+Es wurden diverse kleinere Probleme mit der Benutzeroberfläche und dem Text behoben.
+
+Es wurden diverse kleinere Probleme mit der Gamepad-Steuerung behoben.
+
+################################################################################
+
+Ubisoft Entertainment
+Watch Dogs® 2 V1.09.154.10
+
+################################################################################
+
+ScoutX-App – Dieser Patch behebt ein Problem mit der Fortschrittszurücksetzung der ScoutX-App nach Patch 1.09.
+
+Grafik – Dieser Patch behebt ein Problem mit fehlerhaften Schatten von Charakteren in Filmsequenzen.
+
+[Grafikoptionen] FPS-Limit – Der FPS-Limit-Regler wurde im Display-Reiter der Grafikoptionen hinzugefügt.
+
+################################################################################
+
+Ubisoft Entertainment
+Watch Dogs® 2 v1.09.152.9
+
+################################################################################
+
+[Performance] Optimierung der Arbeitsspeichernutzung – Dieser Patch optimiert die System-Speichernutzung, wodurch das Spiel auf Systemen mit wenig Arbeitsspeicher besser läuft.
+
+[Performance] Optimierung der Screenspace-Reflexionen – Dieser Patch verbessert die insgesamte Darstellung von Screenspace-Reflexionen und fügt zwei neue niedrigere Qualitätsstufen hinzu (Mittel und Hoch).
+
+Der Algorithmus für das Erscheinen des Nebels von San Francisco wurde verbessert.
+
+Der Höchstwert des Pixeldichte-Reglers wurde mit diesem Patch von 1,25 auf 1,5 erhöht.
+
+Ein Regler für die Musiklautstärke wurde hinzugefügt.
+
+Die neueren DUALSHOCK 4 Wireless-Controller (ZCT2U-Modelle) werden jetzt unterstützt.
+
+Es wurden diverse kleinere Probleme mit Flackern behoben. 
+ 
+Es wurden diverse kleinere Probleme mit fehlerhaften Fenstermodi behoben.
+
+Es wurden diverse kleinere Probleme mit der Benutzeroberfläche und dem Text behoben.
+
+################################################################################
+
+Ubisoft Entertainment
+Watch Dogs® 2 v1.07.141.6
+
+################################################################################
+
+[UI] UI-Verbesserungen – Es wurden mehrere kleine Probleme mit der Benutzeroberfläche behoben.
+
+[UI] Textverbesserungen – Es wurden diverse Textfehler in verschiedenen UI-Bildschirmen und -Sprachen behoben.
+
+[UI] HUD im Multi-Monitor-Modus – Es wurden mehrere kleine Probleme mit dem HUD im Multi-Monitor-Modus behoben.
+
+[Grafik] Fehlerhafte Reflexionen – Es wurden mehrere fehlerhafte Reflexionen behoben.
+
+[CrossFire][Performance] – Verbesserte Leistung auf CrossFire-Systemen (AMD-Dual-GPU-Systeme).
+
+################################################################################
+
+Ubisoft Entertainment
+Watch Dogs® 2 v1.06.135.7
+
+################################################################################
+
+Aktualisierungen zur EasyAntiCheat-Integration o Fügt Kompatibilität mit MSI Afterburner hinzu (Guru3d RTSS v6.5.1, v6.5.0, v6.4.0, v6.2.0):
+
+Behebt das Fehlermeldungsproblem „Absturz beim Starten EAC/DotLocal DLL“. 
+
+Verbessert das bekannte Problem [Multiplayer] Anti-Cheat-Software/Nicht aktiviert. Sollte dieses Problem weiterhin auftreten, seht euch bitte die FAQ-Seite [support.ubi.com] an.
+
+Andere Kompatibilitätsverbesserungen
+
+Mexikanisches Spanisch ist für Steam-Spieler in Lateinamerika verfügbar.
+
+Behebt [Steam] [Zusatzinhalt] Fehlender Inhalt/Twitch, ein Problem, durch das Steam-Spieler, die das „Twitch Prime“-Paket erhalten hatten, es im Spiel nicht als installiert sehen konnten. 
+
+Behebt das bekannte Problem [Bug/Glitch] [Gesamte Galerie], das bei Spielern mit Windows-Konten mit Nicht-ASCII-Zeichen für Schwierigkeiten gesorgt hat. 
+
+Behebt das Problem [Absturz beim Starten] Disc-Fehler/Steam.
+
+Behebt das Problem, durch das Xbox One-Controller über Bluetooth nicht richtig erkannt wurden.
+
+Allgemeine Stabilitätsverbesserungen während des Gameplays (z. B. wurde ein seltener Absturz beim Abfeuern einer Waffe behoben).
+
+
+################################################################################
+
+Ubisoft Entertainment
+Watch Dogs® 2 v1.06.135.3
+
+################################################################################
+
+Verbesserung der Stabilität der AMD-CrossFire-Systeme – Dieser Patch behebt die Instabilität des CrossFire-Systems (AMD-Dual-GPU-Systeme).
+
+Problem mit Donut-NPCs behoben – Nach dem Herunterladen des Patchs werden PC-Spieler keine lustigen Horden von Donut-Menschen mehr auf den Straßen sehen. Nur eine moderate Anzahl an Donut-Menschen sollte noch auf den Straßen zu sehen sein.
+
+[Performance] Spielabstürze – Dieser Patch sorgt durch verschiedene Absturz-Korrekturen für ein flüssigeres Spielerlebnis. 
+
+[Online & Multiplayer] Übergangsloser Online-Modus – Der übergangslose Online-Modus sowie die Spielersuche über die Multiplayer-App sollten jetzt reibungsloser funktionieren. 
+
+[Multiplayer] Aktivitätshäufigkeit – Dieser Patch behebt das Problem, dass die Abklingzeit zurückgesetzt wurde, nachdem ein Spieler als Ziel eines Hack-Angriffs während einer Online-Invasion gestorben war. Die Spieler sollten jetzt normale Abklingzeiten vorfinden und auch die Häufigkeit, während des Spiels gehackt zu werden, wurde normalisiert. 
+
+[Online-Invasionen] Zielortung von Hackern durch Mauern hindurch mittels NetHack – Einige Spieler haben gemeldet, während Online-Invasionen Hacker durch Mauern hindurch mit NetHack orten zu können. Dieser Fehler wird mit diesem Patch behoben.  
+
+################################################################################
+Ubisoft Entertainment
+Watch Dogs® 2 v1.00
+################################################################################
+
+Inhaltsverzeichnis
+
+################################################################################
+
+1.   Installationsanweisungen
+1.1. Systemanforderungen
+1.2. Sprachauswahl
+2.   Bugs und Kommentare
+2.1. Installation der Grafik- und Mainboardtreiber
+2.2. Installation der Soundtreiber
+2.3. Installation von DirectX
+2.4. Bekannte Probleme
+3.   Wichtige Websites, Kontaktinformationen und Ubisoft-Kundendienst
+3.1. Ubisoft Kundenservice
+3.2. Wichtige Websites
+
+################################################################################
+
+1. Installationsanweisungen
+
+################################################################################
+
+1.1. Systemanforderungen
+
+Minimale Konfiguration:
+
+Betriebssystem:    Windows 7 SP1, Windows 8.1, Windows 10 (jeweils nur die 64-Bit-Versionen)
+Prozessor:         Intel Core i5 2400s @ 2.5 GHz, AMD FX 6120 @ 3.5 GHz oder besser
+RAM:               6 GB
+Grafikkarte:       NVIDIA GeForce GTX 660 mit 2GB VRAM, AMD Radeon HD 7870 mit 2 GB VRAM oder besser - Siehe Liste der Unterstützten*/**
+DirectX:           DirectX End-User Runtimes (Juni 2010)
+Sound:             DirectX-kompatible Soundkarte mit den aktuellsten Treibern
+Festplatte:        50 GB verfügbarer Speicherplatz
+Peripheriegeräte:  Windows-kompatible Tastatur und Maus erforderlich, Controller optional
+
+Empfohlene Konfiguration:
+
+Betriebssystem:    Windows 7 SP1, Windows 8.1, Windows 10 (jeweils nur die 64-Bit-Versionen)
+Prozessor:         Intel Core i5-3470 @ 3.2 GHz, AMD FX-8120 @ 3.1 GHz oder besser
+RAM:               8 GB
+Grafikkarte:       NVIDIA GeForce GTX 780, AMD Radeon R9 290 mit 3 GB VRAM oder besser - Siehe Liste der Unterstützten*/**
+DirectX:           DirectX End-User Runtimes (Juni 2010)
+Sound:             DirectX-kompatible Soundkarte mit den aktuellsten Treibern
+Festplatte:        50 GB verfügbarer Speicherplatz
+Peripheriegeräte:  Windows-kompatible Tastatur und Maus erforderlich, Controller optional
+
+* Dieses Produkt unterstützt nicht: Windows® 98/ME/2000/NT4.0/XP/Vista
+
+Unterstützte Controller: Xbox One Wireless Controller
+			 oder DUALSHOCK®4 Wireless-Controller
+
+Unterstützte Grafikkarten zum Zeitpunkt der Veröffentlichung:
+NVIDIA GeForce GTX 660 oder besser, Karten der Reihen GTX 700 und GTX 900
+AMD Radeon R9 270 oder besser, Karten der Reihen Radeon R9 300 und Fury
+
+Hinweis:   Die Laptop-Versionen dieser Karten können funktionieren, werden aber NICHT offiziell
+           unterstützt.
+	   Neueste getestete GeForce-Treiber: 344.16 für "GTX 900"-Reihe und 344.11 für die Reihen GTX 600, 700, 800
+           Neueste getestete Radeon-Treiber: 14.9 für alle Serien
+           Für die aktuellsten Systemanforderungen besuche bitte die FAQ 
+           (häufig gestellte Fragen) auf unserer Support-Website unter: http://support.ubi.com.
+
+--------------------------------------------------------------------------------
+1.2. Sprachauswahl
+
+Die zu Beginn der Installation gewählte Sprache wird im Spiel verwendet. Um die
+Sprache zu ändern, deinstalliere das Spiel und installiere es erneut, 
+oder gehe ins Optionenmenü und ändere die Einstellungen für die gesprochene 
+Sprache und die Sprache der Untertitel.
+
+
+  
+################################################################################
+
+2. Bugs und Kommentare
+
+################################################################################
+
+2.1. Installation der Grafik- und Mainboardtreiber
+
+Wenn du Grafikprobleme feststellen solltest, dann installiere bitte die
+aktuellsten verfügbaren Treiber für deine Grafikkarte und das Mainboard.
+Links zu den bekanntesten Herstellern von Grafikkarten und Mainboards
+findest du am Ende dieses Dokuments.
+
+--------------------------------------------------------------------------------
+2.2. Installation der Soundtreiber
+
+Wenn du Soundprobleme feststellen solltest, dann installiere bitte die
+aktuellsten verfügbaren Treiber für deine Soundkarte. Links zu den bekanntesten
+Herstellern von Soundkarten findest du am Ende dieses Dokuments.
+
+--------------------------------------------------------------------------------
+2.3. Installation von DirectX 
+
+Watch Dogs® 2 benötigt die DirectX Runtime-DLLs, um fehlerfrei zu laufen.
+Um die neueste Version von DirectX herunterzuladen, besuche bitte:
+http://www.microsoft.com/de-de/download/details.aspx?id=35
+
+DirectX ist außerdem auf der Installations-Disc im Verzeichnis Support\DirectX enthalten.
+ 
+Wenn du eine Fehlermeldung wegen einer fehlenden DLL erhältst, installiere
+bitte DirectX von der Installations-Disc neu, um das Problem zu beheben.
+
+--------------------------------------------------------------------------------
+
+2.4. Bekannte Probleme
+
+* Es ist _nicht_ ratsam, das Spiel in das Windows-Verzeichnis (normalerweise
+  C:\Windows), ein Unterverzeichnis des Windows-Verzeichnisses oder das
+  Stammverzeichnis des Systemlaufwerks (normalerweise C:\) zu installieren.
+
+* Es ist nicht ratsam, den Namen des Stammverzeichnisses der Installation zu ändern.
+  Wir empfehlen, den (vom Installer angezeigten) Standardnamen ("Watchdogs 2") zu verwenden.
+
+* Es wird empfohlen, alle anderen laufenden Programme zu beenden, bevor du das
+  Spiel installierst, um die Gefahr von Softwarekonflikten zu verringern.
+
+* Mobile Grafiklösungen für Laptops werden noch nicht vollständig unterstützt und sollten
+  mit all ihren Einschränkungen daher als "nur bedingt unterstützt" angesehen werden.
+
+################################################################################
+
+3. Wichtige Websites, Kontaktinformationen und Ubisoft Kundenservice
+
+################################################################################
+
+--------------------------------------------------------------------------------
+3.1. Ubisoft Kundenservice
+
+Bevor du die Abteilung für Kundenservice von Ubisoft Entertainment kontaktierst,
+lies dir bitte diese README-Datei durch. Du solltest dich auch vergewissern,
+dass dein Computer den minimalen Systemanforderungen entspricht, da unsere
+Kundenservice-Mitarbeiterkeinen Kunden helfen können, deren Computer diese Kriterien
+nicht erfüllen. Durchsuche zu guter Letzt häufig gestellten Fragen (FAQ) oder unsere
+Support-Datenbank unter: http://support.ubi.com. Hier findest du die neuesten
+aktualisierten Informationen seit der Veröffentlichung des Spiels.
+
+Wenn du die Abteilung für technischen Support kontaktierst, füge bitte folgende
+Informationen bei oder halte sie bereit, wenn du anrufst:
+
+- vollständiger Produktname (inklusive Versionsnummer)
+- genaue Fehlermeldung (sofern zutreffend) und eine kurze Beschreibung des
+  aufgetretenen Problems
+- Prozessorgeschwindigkeit und -hersteller
+- Größe des Arbeitsspeichers
+- Betriebssystem
+- Verwendete Grafikkarte und ihr Arbeitsspeicher
+- Modell und Geschwindigkeit des CD-ROM- oder DVD-ROM-Laufwerks
+- Typ der verwendeten Soundkarte
+
+
+Support über das Internet
+
+Das ist die beste Art, um Lösungen für allgemeine Probleme
+mit unseren Spielen zu finden. Unsere Liste der häufig gestellten Fragen ist zu jeder Zeit
+verfügbar und enthält die jeweils aktuellsten Informationen zum technischen Support,
+inklusive Patches für unsere Spiele. Wir aktualisieren die Support-Seiten täglich, also
+suche hier bitte zuerst nach Lösungen für deine Probleme: http://support.ubi.com
+
+
+Kontaktiere uns per Webmail
+
+Wir bieten den Support via Standard-E-Mail nicht mehr an, haben dafür
+aber Support über Webmail eingerichtet. Indem wir deine Fragen direkt über unsere
+Website entgegennehmen, können wir deine Fragen viel schneller beantworten,
+als dies über Standard-E-Mail möglich war. Um uns eine Webmail zu schicken, logge
+dich einfach auf unsere Seite unter http://support.ubi.com ein.
+
+Von dieser Seite aus kannst du die Problemlösung von Ubisoft aufrufen, wo du
+die Liste der häufig gestellten Fragen (FAQ) oder unsere Datenbank mit bekannten
+Problemen und Lösungen durchsuchen und über unsere „Eine Frage stellen“-Funktion
+eine Anfrage für persönliche Unterstützung durch einen Mitarbeiter schicken kannst.
+Die meisten Webmail-Kontaktanfragen werden innerhalb von zwei Werktagen beantwortet.
+
+
+Kontaktiere uns per Telefon
+
+Per Telefon kontaktieren: Telefonisch erreichst du uns in Deutschland unter: 069 999915592.
+Beachte bitte, dass diese Nummer nur für technische Unterstützung gedacht ist. Wenn du die
+Hotline des technischen Supports anrufst, halte dich bitte in der Nähe deines Computers auf.
+
+Unsere Mitarbeiter beim technischen Support sind von Montag bis Freitag zwischen
+10:30 und 23:00 Uhr und am Wochenende zwischen 10:30 bis 19:00 Uhr erreichbar.
+Obwohl wir für technischen Support keine Gebühren erheben, fallen die normalen Gesprächsgebühren
+für nationale Festnetz-Telefonate an. (Verbindungspreise aus Mobilfunknetzen können abweichen).
+Um Kosten für Telefongespräche zu vermeiden oder um einen Mitarbeiter außerhalb
+dieser Zeiten zu erreichen, durchsuche die FAQ oder schicke uns eine Webmail.
+
+Österreich: 012 06091819
+Schweiz: 0445111222
+
+
+Kontaktiere uns per Post
+
+Wenn all das nicht funktioniert, kannst du uns auch schreiben:
+
+[Technischer Support Deutschland]
+
+UBISOFT Deutschland
+Ubisoft GmbH
+Adlerstraße 74
+D - 40211 Düsseldorf
+Deutschland
+
+[Technischer Support Österreich]
+
+UBISOFT Österreich
+Ubisoft GmbH, Zweigniederlassung Österreich
+Goldschlagstraße 172/4/3/6
+A-1140 Wien, Österreich
+
+
+Rückgaberecht
+
+Sende bitte kein Spiel direkt an Ubisoft zurück, bevor du nicht den
+technischen Support kontaktiert hast. Es ist Teil unserer Richtlinie, dass sich der
+Händler oder der Online-Shop, bei dem du das Produkt erworben hast, um Rückgaben kümmert.
+Im Falle einer beschädigten oder zerkratzten Spiel-Disk findest du in der Liste der häufig
+gestellten Fragen für dein Spiel die aktuellsten Informationen zu Umtausch und Preisen.
+Wir akzeptieren keine unaufgeforderten Rückgaben/Umtäusche ohne vorherige Bestätigung
+und eine RMA-Nummer (Rücksendenummer) von einem Support-Mitarbeiter.
+
+
+--------------------------------------------------------------------------------
+3.2. Wichtige Websites
+
+Offizielle Watch Dogs® 2 Website:
+http://watchdogs.ubisoft.com/
+
+„DirectX End-User Runtime“-Web-Installer von Juni 2010:
+http://www.microsoft.com/de-de/download/details.aspx?id=35
+
+Neueste Grafiktreiber von AMD:
+http://support.amd.com/us/gpudownload/Pages/index.aspx
+
+Neueste nVidia-Treiber:
+http://www.geforce.com/drivers
+
+Neueste „Creative Labs“-Treiber:
+http://us.creative.com/support/downloads/
+
+Neueste Intel-Treiber:
+http://downloadcenter.intel.com/
+
+Neueste Saitek-Treiber:
+http://www.saitek.com/uk/down/drivers.php
